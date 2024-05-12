@@ -22,7 +22,7 @@ Il est également à l'origine de la création des **Orques** et des **Gobelins*
 # Son culte
 
 Le culte de **Khornettoh** est toujours bien présent en Terre de Fangh, bien qu'il ne dispose pas de prêtres à proprement parler puisqu'il préfère largement les paladins (bien plus bourrins).
-![[Pasted image 20240512233256.png]]
+![[Paladin Khornettoh.png]]
 *Représentation d'un paladin de Khornettoh*
 
 Le siège social du culte se trouve à **Glargh**, au **Temple de Khornettoh** situé sous la rue du Charretier (au centre du quartier Sud). Les guerriers et cultistes de Khornettoh sont généralement vêtus de rouge et de noir, avec toutes sortes de pointes et de formes agressives sur leur équipement. Ils ont tendance à être très peu discrets et à terrifier les passants, les voisins, et plus généralement un peu tous ceux qui ne sont pas assez costauds pour les combattre (et ça fait très peu de personnes ...).
