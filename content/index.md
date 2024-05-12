@@ -1,6 +1,7 @@
 ---
 title: Welcome to Quartz
 ---
+[[Dossier pour les infos privées (scénariis, stats des PNJ ...)]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+See the [documentation](https://quartz.jzhao.xyz) if you need any help to configure everything
