@@ -1,7 +1,7 @@
 ---
 title: Artheas
 ---
-# Arthéas, paladin de Khornettoh
+# Artheas, paladin de Khornettoh
 
 ![[Artheas.jpeg]]
 
@@ -14,3 +14,4 @@ Son dieu est [[Khornettoh]], Dieu de la violence et du sang ... Et il le vaut bi
 
 
 ## Hauts-faits d'aventure
+

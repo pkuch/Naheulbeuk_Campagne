@@ -11,3 +11,4 @@ A terme, le site permettra également de mettre à disposition les documents de 
 Pour commencer, vous pouvez aller visiter les infos sur le monde
 
 
+Note de la dernière session : [[2024-05-14]]
